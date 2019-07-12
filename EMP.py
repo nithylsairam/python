@@ -1,4 +1,4 @@
-'''
+
 class Emp:
     first_name= ''
     last_name= ''
@@ -11,6 +11,5 @@ class Emp:
 
 
 emp1 = Emp()
-emp1.mail("thalapathy","vijay")
-'''    
+emp1.mail("thalapathy","vijay")   
 
